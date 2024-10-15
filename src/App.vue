@@ -58,4 +58,12 @@ button{
   border: none;
   cursor: pointer;
 }
+.studentDetail, .student{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  max-width: 600px;
+  width: 100%;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 20px auto;
+}
 </style>
